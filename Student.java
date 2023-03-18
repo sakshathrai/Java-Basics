@@ -34,8 +34,6 @@ public class Student {
     for(i=0;i<n;i++){
         s[i].display();
     }
-    
-    
     }
     
 }
